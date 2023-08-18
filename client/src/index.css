@@ -1,0 +1,13 @@
+body {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  margin: auto;
+  /* width: 100px;
+  height: 100px; */
+}
+
+.Text {
+  display: flex;
+  justify-content: space-between;
+}
